@@ -32,3 +32,9 @@ Student performance dataset containing:
 git clone https://github.com/yourusername/student-performance-analysis.git
 cd student-performance-analysis
 pip install -r requirements.txt
+
+## 🔧 Optional Extensions
+- Streamlit dashboard (`app.py`)
+- SQL database integration
+- Deep learning model
+- API for predictions (FastAPI / Flask)
